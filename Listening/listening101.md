@@ -80,4 +80,8 @@ Extensive Listening（泛听），即听懂段落内容。
 | 冠词 | a、an、the |
 |  | 注：虚词的否定型，如can‘t、doesn't、shouldn't、wasn't等，在句子中念作**重音**。 |
 
+示例
+- He **wanted** to **play** **chess**.
+- My **letter** was **lost** in the **mail**.
+
 # 5.xx
