@@ -84,4 +84,55 @@ Extensive Listening（泛听），即听懂段落内容。
 - He **wanted** to **play** **chess**.
 - My **letter** was **lost** in the **mail**.
 
-# 5.xx
+# 5.虚词弱读
+
+## 虚词弱读
+
+```mermaid
+graph LR
+A[实词] --> B[句子中的重音字]
+C[虚词] --> D[单独念] --> E[重读:strong form]
+C[虚词] --> F[句子中的非重音字] --> G[弱读:weak form]
+```
+
+
+| - | 单独念：重读 (strong form) | 句子中：弱读 (weak form) |
+| :---: | :---: | :---: |
+| Of | /ɑv/ | /ə/ |
+| To | /tu/ | /tə/ |
+| For | /fɔr/ | /fɚ/ | 
+
+示例训练：
+- Get him out **of** here.
+- That's not going **to** happen.
+- This is **for** you.
+
+## 最常见的母音：央元音
+**[ə]**
+
+央元音，英文叫 Schwa sound 写起來像是倒過來的 e ，念起來像中文里轻轻念「呃」的声音。
+
+## And /ænd/ /ən/
+
+| 重读 (strong form) | 弱读 (weak form) |
+| :---: | :---: |
+| /ænd/ | /ən/ |
+
+示例训练：
+- People come **and** go so quickly here.
+- Slow **and** steady wins the race.
+- It’s apples **and** oranges.
+
+
+## Or /ɔr/ /ər/
+
+| 重读 (strong form) | 弱读 (weak form) |
+| :---: | :---: |
+| /ɔr/ | /ər/ |
+
+示例训练：
+- Take it **or** leave it.
+- Whether you like it **or** not.
+- It’s going to happen sooner **or** later.
+
+
