@@ -119,9 +119,9 @@ C[虚词] --> F[句子中的非重音字] --> G[弱读:weak form]
 | /ænd/ | /ən/ |
 
 示例训练：
-- People come **and** go so quickly here.
-- Slow **and** steady wins the race.
-- It’s apples **and** oranges.
+- People come **and** go so quickly here.（这里人來人往也太快了）
+- Slow **and** steady wins the race.（稳定脚踏实地的人，终将胜出）
+- It’s apples **and** oranges.（兩者完全不同，无法比較）
 
 
 ## Or /ɔr/ /ər/
@@ -132,7 +132,57 @@ C[虚词] --> F[句子中的非重音字] --> G[弱读:weak form]
 
 示例训练：
 - Take it **or** leave it.
-- Whether you like it **or** not.
+- Whether you like it **or** not.（不管你喜不喜欢，就是这样了）
 - It’s going to happen sooner **or** later.
+
+## For /fɔr/ /fər/
+
+| 重读 (strong form) | 弱读 (weak form) |
+| :---: | :---: |
+| /fɔr/ | /fər/ |
+
+示例训练：
+- I think it’s **for** the best. （這已经是最好的选择了）
+- Just **for** the record. （我强调一下）
+- Good **for** you. （真棒啊）
+
+## Of /ɑv/ /əv/ /ə/
+
+| 重读 (strong form) | 弱读 (weak form) |
+| :---: | :---: |
+| /ɑv/ | /əv/ /ə/ |
+
+#### 如果 of 后面接「子音」，经常省略只剩下 /ə/：
+- a lot of food （很多食物）
+- a piece of cake （一块蛋糕）
+- a bottle of water （一瓶水）
+- the cost of living （生活費）
+- Game of Thrones （权力游戏）
+
+#### 如果 of 后面接「母音，或是 /ju/」，會念作 /əv/，方便与后面的母音连音
+- all of us （所有人）
+- United States of America （美國）
+- First day of August （八月第一天）
+- a lot of information （很多咨询）
+- a box of eggs （一盒蛋）
+
+示例训练：
+- Get him out **of** here. （让他走开）
+- Speaking **of** which… （说到這個 ...）
+- It’s one **of** a kind. （独一无二，无可取代）
+
+
+## To /tu/ /tə/
+
+| 重读 (strong form) | 弱读 (weak form) |
+| :---: | :---: |
+| /tu/ | /tə/ |
+
+示例训练：
+- I want **to** talk face **to** face. （我要面对面谈）
+- Get back **to** work. （回去工作吧）
+- You’re such a down-**to**-earth guy. （你真是个老实的人）
+
+
 
 
