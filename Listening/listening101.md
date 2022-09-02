@@ -208,7 +208,7 @@ n't 是 not 的缩写，通常 /t/ 不送气，但是气流会阻断，可以用
 - **Who'd** you bring?（你带了谁？或是你会帶谁？ who’d 是 who did 或是 who would 的缩写）
 - If **he'd** stayed on the plane, **he'd** be dead.（如果他当初有在飞机上，他就会死。he'd 前后分別是 he had 以及 he would 的缩写）
 - I was afraid **I'd** say something **I'd** regret.（我害怕我会说出我后悔的话。两个 I'd 都是 I would 的缩写）
-- **Who'd** like to jump in? Anyone?（谁想要参加？有人吗？ who'd 是 who would 的缩写）
+- **Who'd** like to jump in? Anyone?（有谁想要参加的吗？有人吗？ who'd 是 who would 的缩写）
 - **You'd** better come in.（你最好给我进来。you'd 是 you had 的缩写）
 - **Why'd** you bring me here?（你为何把我带来这里？ why'd 是 why did 的缩写）
 
@@ -216,14 +216,23 @@ n't 是 not 的缩写，通常 /t/ 不送气，但是气流会阻断，可以用
 
 've 是 have 的缩写，可以念成 /əv/ 或 /ə/，最常见的是 could've，should've 以及 would've。听力上 've 常常很轻带过，也可以用前后文与文法推敲。
 
+| 最常见的've缩写 | 完整写法 |发音规则 |
+| :---: | :---: | :---: |
+| could've | could have |coulda /ə/ |
+| should've | should have |shoulda /ə/ |
+| would've | would have |woulda /ə/ |
+| couldn't've | could not have | couldav /əv/ |
+| shouldn't've | should not have |shouldav /əv/ |
+| wouldn't've | would not have |wouldav /əv/ |
+
 示例训练：
-- I **would’ve** said yes. （我原本会说好的）
-- Something **could’ve** happened. （当时本来可能会出事）
+- I **would’ve** said yes. （我原本会说好的 /əv/）
+- Something **could’ve** happened. （当时本来可能会出事 /ə/）
 - **What’ve** you got? （你有什么本事？）
 - Well, guess I **should’ve** known better. （我应该要更识相才对）
 - **Couldn’t** have done it without you. （沒有你的话，我沒办法成功）
 - **Should’ve** listened to him. （我当初应该要听他的）
-- I **shouldn’t** have done it. （我当初不应该这样做的）
+- I **shouldn’t** have done it. （我当初不应该这样做的 shouldn't've）
 - I **should've** brought my laptop. I **could've** gotten so much work done.
 （我应该要带我的笔记本电脑來的，我本来可以完成很多事）
 - Who **would've** thought it? （谁当初会想到呢？）
