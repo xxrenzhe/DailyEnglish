@@ -239,7 +239,7 @@ n't 是 not 的缩写，通常 /t/ 不送气，但是气流会阻断，可以用
 
 ## can 与 can't
 
-#### Can 的读音
+### Can 的读音
 
 | 重读 (strong form) | 弱读 (weak form) |
 | :---: | :---: |
@@ -254,7 +254,7 @@ n't 是 not 的缩写，通常 /t/ 不送气，但是气流会阻断，可以用
 - Don't bite off more than you **can** chew. （不要自不量力）
 - **Can** I tell you something I’ve never told anyone else?（我能跟你说一件我从来沒跟別人说过的事吗？）
 
-#### Can’t 的读音
+### Can’t 的读音
 
 Can’t 读作 /kænt/，而不是 /kantə/，最后的 /t/ 后面不会再加一個央元音。
 Can’t 在句子中常读 /kænʔ/，can’t 的 /t/ 是常常听不到的，很像 /t/ 的声音阻断
@@ -265,7 +265,7 @@ Can’t 在句子中常读 /kænʔ/，can’t 的 /t/ 是常常听不到的，�
 - I **can’t** thank you enough. （太感谢你了）
 - I **can’t** help it. （我忍不住）
 
-#### 如何分辨 Can 以及 Can’t
+### 如何分辨 Can 以及 Can’t
 
 分辨句子中是 Can 还是 Can’t 主要有 3 大判断点：
 1. 时间长：Can 声音比较拖長（一拍，一声），Can’t 声音比较短促（半拍，四声）。
