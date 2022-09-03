@@ -236,3 +236,53 @@ n't 是 not 的缩写，通常 /t/ 不送气，但是气流会阻断，可以用
 - I **should've** brought my laptop. I **could've** gotten so much work done.
 （我应该要带我的笔记本电脑來的，我本来可以完成很多事）
 - Who **would've** thought it? （谁当初会想到呢？）
+
+## can 与 can't
+
+#### Can 的读音
+
+| 重读 (strong form) | 弱读 (weak form) |
+| :---: | :---: |
+| /kæn/ 蝴蝶音/æ/，嘴角往两边拉开 | /kən/ 母音变成央元音，轻轻的 “ㄜ” |
+
+一般来说，虚词单独念作重读，在句子里作弱读；但當 Can 在「句尾」时，也会重读。
+比如说：**Yes, I can.** **I know that she can.** 
+但发音与重音位置在真实的会话中，仍会因每個人说话的习惯不一样而有变化。
+
+示例训练：
+- How **can** you be sure? （你怎么能确定？）
+- Don't bite off more than you **can** chew. （不要自不量力）
+- **Can** I tell you something I’ve never told anyone else?（我能跟你说一件我从来沒跟別人说过的事吗？）
+
+#### Can’t 的读音
+
+Can’t 读作 /kænt/，而不是 /kantə/，最后的 /t/ 后面不会再加一個央元音。
+Can’t 在句子中常读 /kænʔ/，can’t 的 /t/ 是常常听不到的，很像 /t/ 的声音阻断
+在喉咙沒有发出來，这叫做「喉塞音」。
+
+示例训练：
+- I **can’t** take it. （我无法忍受了）
+- I **can’t** thank you enough. （太感谢你了）
+- I **can’t** help it. （我忍不住）
+
+#### 如何分辨 Can 以及 Can’t
+
+分辨句子中是 Can 还是 Can’t 主要有 3 大判断点：
+1. 时间长：Can 声音比较拖長（一拍，一声），Can’t 声音比较短促（半拍，四声）。
+2. 母音：Can 可能母音变成央元音 /kən/ ，但是 Can’t 的母音都是蝴蝶音 /kænt/。
+3. 重音：Can’t 通常是句子的重音，但 Can 通常是非重音。
+
+综合以上， can 以及 can’t 最主要的分辨关键其实是「**重音**」。
+
+示例训练：
+- I **can’t** take my eyes off him. （我的视线无法离开他。难点：off-im）
+- **Can** I have a word with you? （可以跟你借一步说话吗？）
+- I **can't** believe how much I love her. I mean, I **can't** get enough of her.（我不敢相信我有多爱她，我实在是太爱她了。难点：of-er）
+- You **can't** always get what you want. （你无法总是得到你想要的。）
+- As far as I **can** tell, he's exactly the same. （据我所知，他还是一样。）
+- I probably **can't** say that, can I? （我估计没法讲那个，对吧？）
+- I’m pretty sure she **can** figure it out. （我非常确定她可以自己处理的。）
+- I **can't** stand it. Nobody **can** stand it. （我无法接受，沒有人能接受。）
+- Women. **Can't** live with them. **Can't** live without them.（女人啊，无法忍受他们，又不能沒有他们。）
+- I just **can't** bear to see you doing this to yourself.（我不忍心看你这样对待自己。）
+
