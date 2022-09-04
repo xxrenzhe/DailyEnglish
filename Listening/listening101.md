@@ -286,3 +286,44 @@ Can’t 在句子中常读 /kænʔ/，can’t 的 /t/ 是常常听不到的，�
 - Women. **Can't** live with them. **Can't** live without them.（女人啊，无法忍受他们，又不能沒有他们。）
 - I just **can't** bear to see you doing this to yourself.（我不忍心看你这样对待自己。）
 
+# 7.找出英文听力中不见的声音-喉塞音
+
+## 喉塞音
+
+喉塞音（Glottal Stop）又叫「吞音」，音标像是一個问号的上半部 /ʔ/。Can’t 在句子中， 通常听不到 /t/，是因为 /t/ 变成了喉塞音。
+喉塞音的念法，是先作出要念 /t/ 的舌头与嘴形位，但是不释放气流，气好像在喉咙被阻断一样，变成 /kænʔ/，在句子里面听起來就像是停顿半拍。
+
+喉塞音（吞音），是将声音阻塞在喉咙，在句子里面听起来就像是停顿半拍。
+
+
+## 喉塞音出现的时机
+
+单字字尾是塞音 /p/, /t/ , /k/ , /b/ , /d/ , /g/ ,且后面接子音时，就会出现喉塞音，也就是气流会阻塞在喉咙，不会释放，听起来像是字尾不见了。
+
+示例训练：
+- And **right** now, we need to do something.（现在我们必须做点什么。）
+- Mary, **cut** the **crap**. **What** really **happened** with **Brett**?（Mary，废话少说，到底跟 Brett 什么了什么事？）
+- Come on, **dad**. Don't make a **big** deal out of it.（爸，別这样，不要小题大作。）
+- I am **glad** you've come to **think** more highly of cousin Matthew.（我很欣慰你对你表哥 Matthew 更有信心了。）
+- Something came **up** today.（今天突然有急事。）
+
+## 有无喉塞音的对比
+
+| 左边 | 右边 |
+| :---: | :---: |
+| goal digger | **gold** digger |
+| in a **loop** | in a loo |
+| I just want to **note**. | I just want to know. |
+| It’s my **treat**. | It’s my tree. |
+| Did you **keep** my car? | Did you key my car? |
+| Let’s make a **plant**. | Let’s make a plan. |
+
+
+## 单字字尾是塞音，但后面接的是母音时，就会产生连音。
+
+| /p/, /t/ , /k/ , /b/ , /d/ , /g/后面接子音，念喉塞音 | /p/, /t/ , /k/ , /b/ , /d/ , /g/后面接母音，产生连音 |
+| :---: | :---: |
+| **peanut** butter | peanu**t a**nd jam |
+| **black** car | blac**k e**ye |
+| **keep** calm | kee**p i**n mind |
+
