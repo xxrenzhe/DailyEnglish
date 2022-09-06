@@ -372,3 +372,83 @@ Can’t 在句子中常读 /kænʔ/，can’t 的 /t/ 是常常听不到的，�
 
 H 以及 G 在这些情况中，发音与否，并无对错，主要还是看说话者的习惯，练习听力时，要练习习惯不一样的发音方式。
 
+
+# 9.破解听力罩门：连音
+
+## 子音连母音
+
+### 前子音、后母音相连
+
+当前一个字的字尾是**子音发音**，后面一个字的字首是**母音发音**，就会产生连音，多出了一个感觉**本来不存在**的声音。
+
+示例训练：
+| 原句 | 释义 | 连音 |
+| :---: | :---: | :---: |
+| That **came out** wrong. | 我说错话了。| came-out /maʊt/|
+| Don’t **give up**. | 别放弃。 | give-up /vʌp/|
+| **Keep it** safe. | 保险起见。| keep-it /pɪt/|
+| You **had it** coming. | 你自找的。| had-it |
+| I **have a** lot going on today, too. | 我今天也发生很多事情。| have-a |
+| **I’m on** board. | 我加入。| m-on |
+| I **messed up**. | 我搞砸了。| d-up /dʌp/|
+| That **explains it**. | 原来如此。| s-it /zit/|
+| I don’t want to **step on** your toes. | 我不想冒犯你。| step-on /pon/|
+
+### 连音时的 “t”
+
+如果字尾的子音是 /t/，下一字字首又是母音开头，/t/ 就会跟后面母音产生连音，而且变成一个接近是 **/d/** 的声音，这在英文里面叫作「**弹舌音**」，也有人叫它「弱化的 t 」，这是北美口音重要的发音特色。
+
+示例训练：
+| 原句 | 释义 | 连音 |
+| :---: | :---: | :---: |
+| Wa**t**er | - | /d/ |
+| Harry Po**tt**er | - | /d/ |
+| It doesn’t ma**tt**er. | - | /d/ |
+| Knock **it off**.  | 不要闹了。 | /d/ |
+| That’s **what I** thought. | 我想也是。| /d/ |
+| I'll make **it up** to you.| 我会补偿你的。| /d/ |
+
+### 连音时的 “y”
+
+◆ 字尾 “t” 后面接「y」，会念作 「ch」( /tʃ/ )
+◆ 字尾 “d” 后面接「y」，会念作 「j」( /dʒ/ )
+- I want nobody **but you**. → ch ( /tʃ/ )
+- She **said you’re** coming. → j ( /dʒ/ )
+- I came back **last year**. → ch ( /tʃ/ )
+- I already **told you**. → j ( /dʒ/ )
+
+示例训练：
+| 原句 | 释义 | 连音 |
+| :---: | :---: | :---: |
+| I am **glad you** asked. | 我很高兴你问了。| /dʒ/ |
+| I **bet you** never killed anyone. | 我赌你沒杀过任何人。| /tʃ/ |
+| I said if you started to show some initiative, I could **promote you**.| 我说如果你开始主动一点，我可以把你升职。| /tʃ/ |
+
+## 母音连母音
+
+前一个字的字尾是**母音发音**，且后一个字的字首也是**母音发音**时，會为了方便发音而产生一个「**滑音**」。有2种常见的滑音。
+
+### 第一种滑音
+
+第一个滑音是 **/w/**：前一個字的字尾是母音，**嘴形较圓**，且后面接母音开头的字时，会产生 /w/ 的滑音做连结，例如： Just **do it**.
+
+| 原句 | 释义 | 滑音 |
+| :---: | :---: | :---: |
+| Tell me what her favorite **shoe is**. | 告诉我她最爱的鞋是哪支| shoe-is /w/ |
+| **Now or** never. | 不要拉倒 | now-or /w/ |
+| Oh, no, I don't think that's **true at** all. | 哦，不，我不认为是真的 | true-at /w/ |
+| You don't **throw away** the life we built together. | 你不能抛弃我們共筑的生活。| throw-a /w/|
+
+### 第二种滑音
+
+第二个滑音是 /j/：前一個字的字尾是母音，**嘴型较扁**，且后面接母音开头的字时，会产生 /j/ 的滑音做连结，例如： **day after** day。
+
+| 原句 | 释义 | 滑音 |
+| :---: | :---: | :---: |
+| In **the end**, right will prevail over wrong.| 正义终將战胜邪恶。| the-end /j/|
+| If it was over, why would you **lie about** it?| 如果都已经过去了，为何你还要说谎？| lie-about /j/|
+| You know how you can be happy eating Vanilla ice cream **day after** day after day?| 你知道怎么样可以日复一日开心地吃香草冰淇淋吗？| day-after /j/|
+| Okay, so let's address **the elephant** in the room.| 我们来处理这个棘手的问题吧。 | the-elephant /ði//j/|
+
+
+
