@@ -451,4 +451,61 @@ H 以及 G 在这些情况中，发音与否，并无对错，主要还是看说
 | Okay, so let's address **the elephant** in the room.| 我们来处理这个棘手的问题吧。 | the-elephant /ði//j/|
 
 
+# 10.精听练习实战
+
+## 精听练习计划：6 步骤
+
+1. 安排进度
+2. 选择素材
+3. 听写
+4. 检查
+5. 核对答案
+6. 跟读
+
+## 实际示范
+
+Jennifer 是一个普通的上班族，下班后通常有 3 小时可以利用。
+
+### A.安排进度
+
+1. 目前程度：中等 / CEFR B1 / TOEIC 500-600
+2. 长期目标 (具体)：不看字幕，也能够听懂美剧
+3. 短期目标 (可衡量/可达成)：
+   1. 每周 4 天练习精听
+   2. 一次完成 2 分钟的听写
+
+### B.选择素材
+
+1. 个人兴趣：温馨有趣、生活题材、影集电影 (VoiceTube)
+2. 难易度：不看字幕也能听懂八成
+
+### C.听写
+
+- 每句重听的次数，可以根据自己的喜好或程度调整
+- 2 分钟的影片，差不多可以在半小时内听写完
+
+### D.检查
+
+1. Is everything spelled correctly? 每个字都有拼对吗？
+2. Is the grammar correct? 文法有正确吗？
+3. Does it make sense? 听写出的内容合理吗？
+
+### E.核对答案
+
+1. 开启字幕、文稿对答案
+2. 标示出沒听出来的句子
+3. 观察自己常犯的错
+
+### F.跟读
+
+重播影片跟着逐字稿一起念，观察看看自己沒有听出來的原因是什么呢？
+回头复习前面单元教的发音规则和习惯。
+
+
+## 资源分享
+
+- [Voicetube](https://www.voicetube.com/)：无字幕、英文字幕、中英字幕；可单句循环
+- [ELLLO](https://www.elllo.org/)：真实的日常对话；不同口音的英文
+- [Real English](https://www.real-english.com/new-lessons.htm)：真实的日常对话
+- [Movieclips](https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg)：热门电影片段，三分钟左右，适合听力练习
 
