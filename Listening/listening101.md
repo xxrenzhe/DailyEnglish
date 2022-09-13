@@ -560,3 +560,14 @@ Jennifer 是一个普通的上班族，下班后通常有 3 小时可以利用�
 | 4. 你运用了什么策略帮助理解听力呢 | |
 
 
+# 12.你能听懂这些听力常见惯用语吗
+
+| 原句 | 释义 | 举例 |
+| :---: | :---: | :---: |
+| You'll get the hang of it.| 你会慢慢抓到诀窍的。| Don’t worry. You’ll get the hang of it soon. |
+| I'm an open book.| 我没什么秘密/很坦荡。| Ask away, I am an open book. |
+| He threw me under the bus.| 我被他背叛出卖了。| I was thrown under the bus. |
+| You don't say.| 这还用你说。（讽刺口吻）| You don't say.|
+| Bite your tongue.| 不要乱说话。（忍着自己不该说的话）| Bite your tongue.|
+
+
